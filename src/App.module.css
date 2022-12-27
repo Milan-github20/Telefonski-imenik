@@ -1,0 +1,16 @@
+.main_main {
+  display: flex;
+  flex-direction: column;
+}
+
+.naslov p {
+  margin: 0;
+  padding: 70px 50px 10px 80px;
+  font-size: 36px;
+  margin-left: 200px;
+}
+
+div {
+  display: flex;
+  font-family: "Poppins", sans-serif;
+}
